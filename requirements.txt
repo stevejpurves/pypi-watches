@@ -1,0 +1,6 @@
+jupyter
+jupyterlab
+notebook
+ipython
+nbdime
+jupyterlab-git
